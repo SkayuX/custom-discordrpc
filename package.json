@@ -1,0 +1,13 @@
+{
+  "name": "custom-discord-rpc",
+  "version": "1.0.0",
+  "description": "Custom Discord RPC with buttons and Images",
+  "main": "index.js",
+  "author": "Skayu <skayu@jebaclewakowpradem.me>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@types/discord-rpc": "^4.0.3",
+    "discord-rpc": "^4.0.1"
+  }
+}
